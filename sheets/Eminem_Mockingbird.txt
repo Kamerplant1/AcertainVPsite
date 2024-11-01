@@ -1,0 +1,28 @@
+Transpose by: -5
+Tempo: 120 BPM
+
+f....
+[epsf] - l - l - [ishl]
+z l - k - k, a-h-[wypk] -
+o k l k [epsj], f f [pf]
+f f f [epsj] - f p f s [qopd] -
+f - t s [td] - f d-f-[wd] - f
+y s a [ep], u f f [psf]
+f f - [esf] - l p l q-t-[phl] z
+l i k - [sk] - i d-j-[ropk] - o
+k l k [esj], u f f [af] f f
+f [esj] - f u f s [qd] t f t
+o s [td] q f t [wsdh] y o [sd] y w
+[yoad] w 9 5 5 [5ryo], [6upsf] -
+[sfl] [tu] [sfl] - [4sfl] [dz] [sl] q [tak] p
+[ak] i t q-a-d-[5hk] 9 w [rak] [ysl] [ak] [6pj] 0
+e t [uf] [uf] [euf] [uf] [uf] [uf] [6psfj] - [uf]
+t [yd] [ts] [4yd] - [uf] q e [ts] [yd] e
+[uf]-q y-o-[5ad] 9 [ts] w [ra] [6etup], e
+[fx] [fx] [etufjx] [fjx] [fjx] [fjx] [6fjx] - [lm] e [tulxm] -
+[4lm] z [lm] q [tkn] i [pkn] s g k-z-v-
+[5n] 9 w [rkn] [ylm] [kn] [6jb] 0 e t f f
+[uf] f f f [psj] - f - f s [qtpd] -
+f - t s d - f w-y-[oad] -
+[us], [0ryoa], [ro], 6
+0-e-t-u-p-

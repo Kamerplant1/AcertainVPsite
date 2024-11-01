@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background: #FEDC3C;
+    position: relative;
+    overflow: hidden;
+}
+
+.piano-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    background: url('') center center / contain no-repeat; /* Maintain aspect ratio */
+    z-index: -1; /* Send background to the back */
+}
+
+nav {
+    height: 45px;
+    background: rgba(254, 220, 60, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem calc((100vw - 1300px) / 2);
+}
+
+.logo {
+    color: black;
+    font-size: 1rem;
+    font-family: fantasy;
+    padding: 0 2rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 0 1.5rem;
+}
+
+.filter {
+    padding: 2rem;
+    background: rgba(249, 231, 185, 0.8);
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 800px;
+    position: relative;
+    z-index: 1; /* Bring filter to the front */
+    overflow-y: auto; /* Allow vertical scrolling */
+    max-height: 80vh; /* Limit height to fit the screen */
+}
+
+button {
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    border: none;
+    color: #FEDC3C;
+    background: black;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-top: 1rem;
+}
+
+button:hover {
+    transform: scale(105%);
+}
+
+pre {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    overflow-x: auto; /* Allow horizontal scrolling for long lines */
+    white-space: pre-wrap; /* Allow text to wrap */
+    word-wrap: break-word; /* Break long words to fit */
+    max-height: 70vh; /* Limit height of output section */
+    overflow-y: auto; /* Allow vertical scrolling in output */
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transpose Tool</title>
+    <link rel="stylesheet" href="styleforconverter.css">
+</head>
+
+<body>
+    <div class="piano-bg"></div> <!-- Background Div -->
+    <nav>
+        <div class="logo">ACERTAIN VP SITE</div>
+        <div class="nav-items">
+            <a href="index.html">Home</a>
+            <a href="sheets.html">Sheets</a>
+            <a href="Converter.html">Converter</a>
+            <a href="Contact.html">Contact</a>
+        </div>
+    </nav>
+
+    <div class="filter">
+        <h2>Transpose Tool</h2>
+        <div class="input-group">
+            <input type="text" id="searchInput" placeholder="Enter your notes..." style="width: calc(100% - 200px);">
+            <input type="number" id="transposeAmount" placeholder="Transpose by..." style="width: 120px; margin-left: 10px;">
+            <button onclick="processTranspose()">Transpose</button>
+            <button onclick="optimalTranspose()" style="margin-left: 10px;">Optimal Transpose</button>
+            <button onclick="resetTool()" style="margin-left: 10px;">Reset</button> <!-- Reset Button -->
+        </div>
+        <div>
+            <h3>Output:</h3>
+            <p id="transposeMessage"></p>
+            <pre id="output"></pre>
+        </div>
+    </div>
+
+    <script>
+        const keyMap = {
+            '1': 1, '!': 2, '2': 3, '@': 4, '3': 5, '4': 6, '$': 7,
+            '5': 8, '%': 9, '6': 10, '^': 11, '7': 12, '8': 13, '*': 14,
+            '9': 15, '(': 16, '0': 17, 'q': 18, 'Q': 19, 'w': 20,
+            'W': 21, 'e': 22, 'E': 23, 'r': 24, 't': 25, 'T': 26,
+            'y': 27, 'Y': 28, 'u': 29, 'i': 30, 'I': 31, 'o': 32,
+            'O': 33, 'p': 34, 'P': 35, 'a': 36, 's': 37, 'S': 38,
+            'd': 39, 'D': 40, 'f': 41, 'g': 42, 'G': 43, 'h': 44,
+            'H': 45, 'j': 46, 'J': 47, 'k': 48, 'l': 49, 'L': 50,
+            'z': 51, 'Z': 52, 'x': 53, 'c': 54, 'C': 55, 'v': 56,
+            'V': 57, 'b': 58, 'B': 59, 'n': 60, 'm': 61
+        };
+
+        const reverseKeyMap = Object.fromEntries(Object.entries(keyMap).map(([key, value]) => [value, key]));
+
+        function digify(key) {
+            return keyMap[key] || -1;
+        }
+
+        function undigify(digit) {
+            return reverseKeyMap[digit] || '';
+        }
+
+        function transpose(str, amt) {
+            return str.split('').map(char => {
+                const dig = digify(char);
+                if (dig === -1) return char;
+                return undigify(dig + amt);
+            }).join('');
+        }
+
+        function processTranspose() {
+            const input = document.getElementById("searchInput").value;
+            const amt = parseInt(document.getElementById("transposeAmount").value) || 0; // Default to 0 if not a number
+            const output = transpose(input, amt);
+            document.getElementById("output").textContent = output;
+            document.getElementById("transposeMessage").textContent = `Transposed by ${amt}`;
+        }
+
+        function resetTool() {
+            document.getElementById("searchInput").value = '';
+            document.getElementById("transposeAmount").value = '';
+            document.getElementById("output").textContent = '';
+            document.getElementById("transposeMessage").textContent = '';
+        }
+
+        function isShiftKey(char) {
+            return char.match(/[A-Z!@#$%^&*()_+{}:"<>?|]/);
+        }
+
+        function countShiftKeyUsage(str) {
+            return [...str].filter(isShiftKey).length;
+        }
+
+        function findOptimalTranspose(input) {
+            let minShiftKeyCount = Infinity;
+            let optimalAmount = 0;
+
+            for (let amt = -3; amt <= 3; amt++) {
+                const transposed = transpose(input, amt);
+                const shiftKeyCount = countShiftKeyUsage(transposed);
+
+                if (shiftKeyCount < minShiftKeyCount) {
+                    minShiftKeyCount = shiftKeyCount;
+                    optimalAmount = amt;
+                }
+            }
+
+            return optimalAmount;
+        }
+
+        function optimalTranspose() {
+            const input = document.getElementById("searchInput").value;
+            const optimalAmount = findOptimalTranspose(input);
+            
+            if (optimalAmount === 0) {
+                document.getElementById("output").textContent = input;
+                document.getElementById("transposeMessage").textContent = "Input is already optimal.";
+                return;
+            }
+
+            const output = transpose(input, optimalAmount);
+            const transposeDirection = optimalAmount > 0 ? `Transposed optimally by +${optimalAmount}` : `Transposed optimally by ${optimalAmount}`;
+            document.getElementById("output").textContent = output;
+            document.getElementById("transposeMessage").textContent = transposeDirection;
+        }
+    </script>
+</body>
+
+</html>

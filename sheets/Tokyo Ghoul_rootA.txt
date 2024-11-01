@@ -1,0 +1,128 @@
+Transposition -3
+
+[qetf] p s f p s f p
+[etud] p s d p s d p
+[wtyd] o s d o s d o
+d o s d o s f o
+[qetf] p s f p s f p
+[etud] p s d p s d p
+[wtyd] o s d h l z v
+? s
+[qetpd] s a p d
+[etu] s a p p
+[wtyo] o i o u
+[pd] p s f u
+[qetu] u u f [psf]
+[etu] s
+[wtyoa] a a s s
+[pd] p s f s
+[qetpd] s a p d
+[etu] s a p p
+[wtyo] o i o u
+[pd] p s f u
+[qetu] u u f [psf]
+[etu] s
+[wtyoa] a a s s
+l z x v m ? ? a
+[etups] s [etups] e [tups] f
+[qetupf] d [qetupd] [qetu] s
+[wtyod] s [wtyoa] o [wty] u
+8 w t [yuo] 8 t [7wra]
+[60eups] s [0etups] [6ps] [0e] [psf]
+[48qpf] [pd] [qetupd] [ps] [48q]
+[59wosf] [od] [wtyod] w [tyoa] [os]
+8 w t u y t w o
+[48qo] u [qetu] y u [48q] o
+[60eo] u [0etu] y t [60e] o
+[59wo] u [wtyu] y y [59w] u
+[?5] u f [ud]
+[48qpsf] [pd] [qetupd] [pd] [ps] [qetu] [ps]
+[59woa] [os] [wtyoa] o [59w]
+[60eosf] [od] [0etod] [od] [os] [60e] [os]
+[370oa] [0os] [ruosh] [0s] [ru] s
+[48qsj] [sh] [qetusf] s [qetu] s
+[59wos] [oa] [wtyp] [oa] [59w] [os]
+[60e] p s [0etf] p s [60ef] [ps]
+[370oa] [ps] [0ruoa] o [370] o
+[48qosf] [od] [qetuod] [od] [os] [qetu] [os]
+[59woa] [os] [wtyoa] o [59w]
+[60eosf] [od] [0etod] [os] [60e] [os]
+[370oa] [0os] [ruosh] [0s] [ru] s
+[48qsj] [sh] q [etusf] [qs] [etu] s
+[59wos] [oa] [wtyp] a [wty] s
+[qet] p s [qetf] p s [qetf] p
+[etud] p s [etud] p s [etud] p
+[wtyd] o s [wtyd] o s [wtyd] s
+[etud] s [etua] s [etu] s
+[qet] p s [qetx] p s [qetx] p
+[etud] p s [etux] p s [etux] p
+[wtyd] o s [wtyx] o s [wtyx] s
+[etud] p s [etux] p s [etux] s
+[qetd] s d [qets] d s d [qet] s
+[60ea] a a [0eta] a a s [60e] s
+[59wd] s d [wtys] d s d [59w] s
+[60ea] a a [0eta] a a s [60e] s
+[48qpd] s [pd] [qetus] [pd] s [pd] [qetu] s
+[60epd] s [pd] [0ets] [pd] s [pd] [60e] s
+[59wod] s [od] [wtys] [od] [os] [59w] d
+[?5] d h h h h h
+[qf] e t u
+[wpd] y o a
+[eua] u p [os] [sh]
+[hl] [hk]
+[qsh] t i p
+[wad] y o s a
+[eos] u p s
+l k h f o
+[qeto] u u y u o
+[0eto] u u y t o
+[wtyo] u u y u o
+[60eo] u [6u] [0y] e t w [0o]
+[48qo] u [qetu] y u [48q] o
+[60eo] u [0etu] y t [60e] o
+[59wo] u [wtyu] y y [59w] f
+[?5] g f u f [ud]
+[48qpsf] [pd] [qetupd] [pd] [ps] [qetu] [ps]
+[59woa] [os] [wtyoa] o [59w]
+[60eosf] [od] [0etod] [od] [os] [60e] [os]
+[370oa] [0os] [ruosh] [0s] [ru] s
+[48qsj] [sh] q [etusf] [qs] [etu] s
+[59wos] [oa] [wtyp] [oa] [59w] [ups]
+[60e] p s [0etf] p s [60ef] [ps]
+[370oa] [ps] [0ruoa] o [370] o
+[48qosf] [od] [qetuod] [od] [os] [qetu] [os]
+[59woa] [os] [wtyoa] o [59w]
+[60eosf] [od] [0etod] [os] [60e] [os]
+[370oa] [0os] [ruosh] [0s] [ru] s
+[48qsj] [sh] q [etusf] s q [etu] s
+[59wos] [oa] [wtyp] a [wty] s
+[48q] [qsl] [etuak] [qpj] [etu]
+[59woh] [woh] [ryig] [5uf] [9w] s
+[60epd] s [0etpd] s [60e] [pd]
+[370] [sf] 0 [ru] 0 [ru] s
+[48qsgj] [sh] q [etusf] [qs] [etu] s
+[59wsfj] [sh] w [ryosf] [5s] [9w] s
+[60esfj] [sh] [0etsf] s [60e] s
+[370sfj] [sh] 0 [rusf] [3s] [70] s
+[48qosf] [od] [qetuod] [od] [os] [qetu] [os]
+[59woa] [os] [wtyoa] o [59w]
+[60eosf] [od] [0etod] [os] [60e] [os]
+[370oa] [0os] [ruosh] [0s] [ru] s
+[48qsj] [sh] [qetusf] s [qetu] s
+[59wos] [oa] p a s
+[qetx]
+j l [qetx] j l [qetx] j
+[etuz] j l [etuz] j l [etuz] j
+[wtyz] h l [wtyz] h l [wtyz] h
+[etuz] h l [etuz] j l [etux] j
+[qetx] j l [qetx] j l [qetx] j
+[etuz] j l [etuz] j l [etuz] j
+[wtyz] h l [wtyz] h l [wtyz] h
+[etuz] j l [etuz] j l [etux] l
+[qetz] l [qet] k j [qet]
+[etuz] j l [etuz] j l [etuz] l
+[wtyz] l [wty] x [wty]
+[etuz] j l [etuz] j l [etuz] f
+[qetf] f [qetf] x [qetj] l x
+[etuz] j l [etuz] j l [etuz] l
+[wyok] k k l l

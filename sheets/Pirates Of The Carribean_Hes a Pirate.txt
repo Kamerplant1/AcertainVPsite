@@ -1,0 +1,43 @@
+Transpose -7
+
+e e e e e e e e e [6e] [6e] [6e] [6e] [6e] [6e] [6e] [6e] [6e]
+[6e] [6e] [6e] [6e] [6e] [6e] [6e] [60etu] [6wryo] [6etup] [6etup] 6 [6etup] [5wryoa] [qtips] [qtips] q [qtips] [qyipd]
+[0ruoa] [0ruoa] 0 [0etup] [0wryo] [6wryo] [6etup] 6 6 [60etu] [5wryo] [qetip] [qetip] q [qetip] [qra] [8tuos] [8tuos] 8 [8tuos] [8yd]
+[5wryoa] [5wryoa] [5w] [5wryp] [5wryo] [6tup] 6 6 [60etu] [6wryo] [6etup] [6etup] 6 [6etup] [6tups] [qyipd] [qyipd] q [qyipd] [quf]
+[8ipdg] [8ipdg] 8 [8upsf] [8ypad] [6upsf] [6ep] 6 6 [6etup] [5wryoa] [qtips] [qtips] q [qyipd] q [6upsf] [6ep] 6 6 [6etup] [6tups]
+[O0rua] [O0rua] 0 [0tups] [0euip] [O0eua] 0 0 0 [0uf] [0oh] [6epsfj] [6epsfj] [6e] [6epsfj] [5wadhk] [qsgjl] [qsgjl] q [qsgjl] [qdgjz]
+[0afhk] [0afhk] 0 [0psfj] [0oadh] [6eoadh] [6epsfj] [6e] [6e] [6eupsf] [5woadh] [qpsgj] [qpsgj] q [qpsgj] [qak] [8sfhl] [8sfhl] 8 [8sfhl] [8dz]
+[5wadhk] [5wadhk] [5w] [5wadj] [5wadh] [6epsfj] [6e] [6e] [6eupsf] [6eoadh] [6epsfj] [6epsfj] [6e] [6epsfj] [5wsfjl] [qdgjz] [qdgjz] q [qdgjz] [0fx]
+[9gjzc] [9gjzc] 9 [9fjlx] [9djkz] [6efjlx] [6epj] [6e] [6e] [6epsfj] [5wadhk] [qsgjl] [qsgjl] q [qdgjz] q [6efjlx] [6epj] [6e] [6e] [6epsfj] [6esl]
+[0adk] [0adk] 0 [0psj] [OH0a] [6epsfj] [6epsfj] [6epsfj] [%WHadk] [5wsfjl] [5wsfjl] [5wsfjl] [qdgjz] [0fjlx] 0 [sl] [pj]
+[0uf] 0 0 0 [9gjzc] 9 [sl] [pj] [9ig] 9 9 9 [OH0af] [OH0af] [0psfj]
+[H0sfl] 0 [H0adk] [H0adk] [epsf] e [epsf] e [epsf] e [epsg] [epsf] e e e e [eoad] e [eoad] e [eoad] e
+[eoad] [epsf] e e e e [epsf] e [epsf] e [epsf] e [epsg] [epsf] e e e e [eipd] e [eips] e [Oeua] e
+[etup] e e e j k [ejl] u p s [kz] [lx] [wkz] y [ohl] a [dk] [tfl] o [shz] f [lx]
+[whz] y o a [dl] [hz] [tlx] o s f [hz] [fl] [0dk] r [ufl] O [dk] [esj] u p s [dk] [ah]
+[sj] p u t [ejlb] [0kzn] [6lxm] [etup] [kzn] [lxm] [5zc] [lxm] [wryo] [zc] [8xv] [zc] [tuos] [lxm]
+[jlb] [qeti] [jlb] [kzn] [6lxm] [zc] [etup] [xv] [9cb] [jcb] [yipd] [zc] [lxm] f u [zc] [kzn] [0u]
+[jlb] 0 [kzn] [HVk] [upsfjx] l j f s p [6u] [ipdgjc] z j g d p [9i] [uosfhlx] [fhlx] 8 [fhlx]
+[uosfhlx] [yoadhkz] [5y] o a d h k [yipdgz] j g d p i [9y] [tupsfl] j f s p u [0t] [OHuafk] [upsfjl] [OHuafk]
+[OHuafk] [eupsfj] [6pj] [ak] [sl] [upsfjlx] [6pj] [ak] [sl] [ipsgjlc] [pj] [ak] [sl] [uosfhlx] [fhlx] 8 [hlxv]
+[uosfhlx] [yoadhkz] [5y] o a d h k [yipdgz] j g d p i [9y] [tupsfl] j f s p u [0t] [OHuafk] [upsfjl] [OHuafk]
+[6pfj] f h [psfj] p [psfj] p [pj] [pk] [pgjl] p [pgjl] p [pl] [pz] [pfhk] p [pfhk] p [pj] [ph]
+[padh] [psfj] p p [pf] [ph] [psgj] p [psgj] p [pj] [pk] [pfhl] p [pfhl] p [pl] [pz] [pdhk] p [pdhk] p [pj] [ph]
+[psfj] p p p [pf] [ph] [psfj] p [psfj] p [pj] [pl] [pgjz] p [pgjz] p [pz] [px] [pjzc] p [pjzc] p [px] [pz]
+[pflx] [pj] p p [pj] [pk] [pgjl] p [pgjl] p [pgjz] p [pflx] [pj] p p [pj] [pl] [H0ufk] [0u] [H0ufk] [0u] [fjl] [Gfj]
+[H0fk] 0 0 0 [fx] [hv] [6jlb] x l j f s p u [jb] [kn] [lcm] b c l g s p i [lm] z [0kxn] v x k f a o u [pj] [oh]
+[6oadh] [psfj] [upsf] [fx] [hv] [jlb] c l j g s p i [jb] [kn] [8lxm] v x l h f s o [lm] z [5kzn] v z k h d a o [jb] [hv]
+[6jlb] x l j f s p u [fx] [hv] [6jlxb] [jlxb] [etup] [jlxb] [lxbm] [qzcb] [zcb] [yipd] [zcb] x [9cb] [cb] [yipd] [xb] z
+[6xbm] [jlxb] [etup] [jlxb] [kn] [qlcbm] [lcbm] [yipd] [zcb] [6exbm] [jlxb] [etup] [jlxb] [lm] [0kzn] [kzn] [Oryu] [jlb] [HVk]
+[6ejlxb] [6ejlxb] [6ejlxb] [%WVkzn] [5wlxbm] [5wlxbm] [5wlxbm] [qzcb] [0xbm] [ups] [upslm] [upsjb] [upsfx] [ups] [ups] [ups] [ups] [ups]
+[9cb] [yips] [yipslm] [yipsjb] [yipsgc] [yips] [yips] [yips] [yips] [yips] [OH0af] [O0af] [0psfj] [0psfj] [H0sfl] [H0adk] [H0adk]
+[6upsf] [upsf] [6e] [upsf] 6 [ipsg] [upsf] [6e] e e e [5yoad] [yoad] [5w] [yoad] 5 [yoad] [6upsf] e e e e
+[6upsf] [upsf] [6e] [upsf] 6 [ipsg] [upsf] [6e] e e e [9yipd] [9tips] [O0rua] [6etup] e t u p s f j k
+[el] [uj] [pf] [sj] [pz] [ux] [wz] [yh] [ol] [ah] [ok] [yd] [tl] [of] [sz] [fh] [sx] [oh] [wz] [yk] [oh] [ad] [ol] [yz]
+[tx] [ol] [sh] [fl] [sz] [ol] [0k] [rf] [ul] [Of] [uk] [rf] [ej] [uf] [ps] [sf] [pk] [uh] [ej] [uf] [ps] [sf] [pjlb] [ukzn]
+[elxm] u p s [pkzn] [ulxm] [wzc] y [olxm] a [ozc] y [8xv] w [tzc] u [tlxm] w [qjlb] t i p [ijlb] [tkzn]
+[elxm] u [pzc] s [pxv] u [9cb] e [yjcb] i [yzc] e [0ulxm] [0u] [0uzc] [0ukzn] [0jlb] 0 [0kzn] [HV0k]
+[fjlxbm] [6upsf] [gjzcb] [9ipdg] [fhlxvm] [fhlxvm] [fhlxvm] [fhlxvm] [dhkzvn] [5d] h k z v n
+[dgjzcb] [9yipd] [sfjlxbm] [0tups] [HVafkxn] [sfjlxbm] [HVafkxn] [HVafkxn] [psflxb] [6pj] [ak] [sl]
+[upsfjlx] [6pj] [ak] [sl] [ipsgjlc] [pj] [ak] [sl] [uosfhlx] [fhlx] 8 [hlxv] [uosfhlx] [yoadhkz] [5d] h k z v n
+[dgjzc] b c z j g [9d] [sfjlxm] b x l j f [0s] [HVafkxn] [sfjlxbm] [HVafkxn] [6jlxb]6

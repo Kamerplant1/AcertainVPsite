@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Page</title>
+    <link rel="stylesheet" href="styleforcontact.css">
+    <script>
+        function copyToClipboard(username) {
+            navigator.clipboard.writeText(username)
+                .then(() => {
+                    alert(`${username} copied to clipboard!`);
+                })
+                .catch(err => {
+                    console.error('Failed to copy: ', err);
+                });
+        }
+    </script>
+</head>
+
+<body>
+    <nav>
+        <div class="logo">ACERTAIN VP SITE</div>
+        <div class="nav-items">
+            <a href="index.html">Home</a>
+            <a href="sheets.html">Sheets</a>
+            <a href="Converter.html">Converter</a>
+            <a href="Contact.html">Contact</a>
+        </div>
+    </nav>
+
+    <div class="contact-container">
+        <h2>Contact Information</h2>
+        <div>
+            <p>Discord Users:</p>
+            <button class="button" onclick="copyToClipboard('acertainlife')">acertainlife</button>
+            <button class="button" onclick="copyToClipboard('muza_')">muza_</button>
+        </div>
+        <div>
+            <p>YouTube:</p>
+            <a class="button" href="https://www.youtube.com/@AcertainLife" target="_blank">AcertainLife</a>
+        </div>
+        <div>
+            <p>Email:</p>
+            <a class="button" href="mailto:acertainvptrello@gmail.com">Email Us</a>
+        </div>
+        <div>
+            <p>Trello:</p>
+            <a class="button" href="https://trello.com/b/mpmwXlhA/a-certain-vp-trello" target="_blank">Visit Trello</a>
+        </div>
+    </div>
+</body>
+
+</html>
